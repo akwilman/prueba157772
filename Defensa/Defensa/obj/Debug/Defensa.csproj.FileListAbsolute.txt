@@ -1,0 +1,15 @@
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\Defensa.exe.config
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\Defensa.exe
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\Defensa.pdb
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\EntityFramework.dll
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\EntityFramework.xml
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\source\repos\Defensa\Defensa\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Alejandro\source\repos\Defensa\Defensa\obj\Debug\Defensa.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Defensa\Defensa\obj\Debug\Defensa.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Defensa\Defensa\obj\Debug\Defensa.csproj.CopyComplete
+C:\Users\Alejandro\source\repos\Defensa\Defensa\obj\Debug\Defensa.exe
+C:\Users\Alejandro\source\repos\Defensa\Defensa\obj\Debug\Defensa.pdb
